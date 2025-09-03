@@ -1,6 +1,6 @@
 # Site settings
 title: "Berni Lab - Neuroscience Lab"
-description: "Research in cognitive neuroscience, computational modeling, and brain-behavior relationships"
+description: "We investigates the relation between neuronal circuits and behaviour with an emphasis on the diversification of circuits and the role of genes in specifying different neuronal networks and their assembly during development."
 baseurl: "/berni-lab.github.io"  # ← ADD THIS!
 url: "https://nvelichkova.github.io"  # ← UPDATE THIS!
 
@@ -9,7 +9,7 @@ lab_name: "Berni Lab"  # ← Update these!
 lab_short: "BL"
 institution: "University of Sussex"  # ← Update!
 department: "Brighton and Sussex Medical School (BSMS)"  # ← Update!
-pi_name: "Dr. [Jimena Berni]"  # ← Update!
+pi_name: "Dr. Jimena Berni"  # ← Update!
 location: "Brighton, UK"  # ← Update!
 
 # Contact
