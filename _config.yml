@@ -7,10 +7,10 @@ url: "https://nvelichkova.github.io"  # ← UPDATE THIS!
 # Lab information
 lab_name: "Berni Lab"  # ← Update these!
 lab_short: "BL"
-institution: "Your University"  # ← Update!
-department: "Department of Neuroscience"  # ← Update!
-pi_name: "Dr. [Your Name]"  # ← Update!
-location: "City, Country"  # ← Update!
+institution: "University of Sussex"  # ← Update!
+department: "Brighton and Sussex Medical School (BSMS)"  # ← Update!
+pi_name: "Dr. [Jimena Berni]"  # ← Update!
+location: "Brighton, UK"  # ← Update!
 
 # Contact
 email: "your-email@university.edu"  # ← Update!
