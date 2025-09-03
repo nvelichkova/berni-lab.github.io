@@ -1,36 +1,36 @@
 # Site settings
-title: "[Your Lab Name] - Neuroscience Lab"
+title: "Berni Lab - Neuroscience Lab"  # ← Also update this!
 description: "Research in cognitive neuroscience, computational modeling, and brain-behavior relationships"
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://nvelichkova.github.io/berni-lab.github.io"  # ← Update this too!
 
 # Lab information
-lab_name: "Your Neuroscience Lab"
-lab_short: "YNL"
-institution: "Your University"
-department: "Department of Neuroscience"
-pi_name: "Dr. Your Name"
-location: "City, Country"
+lab_name: "Berni Lab"  # ← Update these!
+lab_short: "BL"
+institution: "Your University"  # ← Update!
+department: "Department of Neuroscience"  # ← Update!
+pi_name: "Dr. [Your Name]"  # ← Update!
+location: "City, Country"  # ← Update!
 
 # Contact
-email: "lab@university.edu"
+email: "your-email@university.edu"  # ← Update!
 address: |
-  Your Lab
+  Berni Lab
   Department of Neuroscience
   Your University
   Building Name, Room 000
   City, State/Province
   Country
 
-# Social links (optional)
+# Social links (optional) - Update these
 twitter_username: yourlabtwitter
-github_username: yourlabgithub
+github_username: nvelichkova  # ← At least update this one!
 google_scholar: your-scholar-id
 orcid: 0000-0000-0000-0000
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima  ← COMMENT OUT OR DELETE THIS LINE!
 plugins:
   - jekyll-feed
   - jekyll-sitemap
