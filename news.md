@@ -2,6 +2,7 @@
 layout: default
 title: News
 description: Latest news and updates from our lab
+permalink: /news/
 ---
 
 # Latest from the Lab
