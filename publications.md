@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 description: Research publications from our lab
+permalink: /publications/
 ---
 
 # Publications
