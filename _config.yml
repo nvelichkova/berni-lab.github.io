@@ -50,18 +50,18 @@ collections:
 
 # Navigation
 navigation:
-  - name: About
+  - name: Home
     link: /
   - name: Research
-    link: /research/
+    link: /research
   - name: People
-    link: /people/
+    link: /people
   - name: Publications
-    link: /publications/
+    link: /publications
   - name: News
-    link: /news/
+    link: /news
   - name: Contact
-    link: /contact/
+    link: /contact
 
 # Exclude from processing
 exclude:
