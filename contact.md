@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 description: Contact information and directions to our lab
+permalink: /contact/
 ---
 
 # Contact Us
