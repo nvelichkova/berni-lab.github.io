@@ -1,0 +1,70 @@
+# Site settings
+title: "[Your Lab Name] - Neuroscience Lab"
+description: "Research in cognitive neuroscience, computational modeling, and brain-behavior relationships"
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Lab information
+lab_name: "Your Neuroscience Lab"
+lab_short: "YNL"
+institution: "Your University"
+department: "Department of Neuroscience"
+pi_name: "Dr. Your Name"
+location: "City, Country"
+
+# Contact
+email: "lab@university.edu"
+address: |
+  Your Lab
+  Department of Neuroscience
+  Your University
+  Building Name, Room 000
+  City, State/Province
+  Country
+
+# Social links (optional)
+twitter_username: yourlabtwitter
+github_username: yourlabgithub
+google_scholar: your-scholar-id
+orcid: 0000-0000-0000-0000
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections for organized content
+collections:
+  people:
+    output: true
+    permalink: /people/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+
+# Navigation
+navigation:
+  - name: About
+    link: /
+  - name: Research
+    link: /research/
+  - name: People
+    link: /people/
+  - name: Publications
+    link: /publications/
+  - name: News
+    link: /news/
+  - name: Contact
+    link: /contact/
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
