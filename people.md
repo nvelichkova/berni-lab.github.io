@@ -2,6 +2,7 @@
 layout: default
 title: People
 description: Meet our research team
+permalink: /people/
 ---
 
 # Our Team
