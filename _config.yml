@@ -1,7 +1,7 @@
 # Site settings
 title: "Berni Lab - Neuroscience Lab"  # ← Also update this!
 description: "Research in cognitive neuroscience, computational modeling, and brain-behavior relationships"
-baseurl: ""
+baseurl: "/berni-lab.github.io"
 url: "https://nvelichkova.github.io/berni-lab.github.io"  # ← Update this too!
 
 # Lab information
