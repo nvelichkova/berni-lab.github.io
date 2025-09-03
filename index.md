@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Us
+title: Home
 description: Welcome to our neuroscience lab studying cognitive processes and brain function
 ---
 
